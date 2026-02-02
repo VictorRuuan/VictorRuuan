@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 💻 Desenvolvedor focado em **Back-end**
+- 💻 Desenvolvedor **Back-end**
 - 🔧 Experiência com **APIs REST**
 - 📚 Sempre estudando e evoluindo
 - 🎯 Gosto de projetos práticos e bem estruturados
