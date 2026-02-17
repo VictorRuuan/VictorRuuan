@@ -56,21 +56,9 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=victorruan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorruan&layout=compact&theme=tokyonight"/>
-</div>
-
----
 
 ## 📫 Contato
-- 💼 LinkedIn: *(adicione aqui)*
-- 📧 Email: *(adicione aqui)*
+- 💼 LinkedIn: (https://www.linkedin.com/in/victor-ruan-76b39a270/)
+- 📧 Email: victor.ruan.reis@gmail.com
 
 ⭐ Se gostou de algum projeto, não esquece de deixar uma estrela!
