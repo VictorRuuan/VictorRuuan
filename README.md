@@ -1,92 +1,56 @@
-<h1 align="center">Olá! Eu sou o Victor Ruan 👋</h1>
+<div align="center">
 
-<p align="center">
-  🚀 Desenvolvedor Back-end focado em APIs, sistemas web e soluções práticas com Python, MySQL e JavaScript.
-</p>
+# 👨‍💻 Victor Ruan
+
+### 🚀 Backend Developer | Python • MySQL • React • TypeScript
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end+focado+em+APIs;Criando+sistemas+web+modernos;Python+%7C+Flask+%7C+FastAPI+%7C+MySQL;React+%7C+TypeScript+%7C+JavaScript" />
+
+</div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+<div align="center">
 
-💻 Desenvolvedor **Back-end** em evolução constante  
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Ruan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-ruan-76b39a270/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:victor.ruan.reis@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 My Stack
+
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,mysql,html,css,js,ts,react,git,github,vscode" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Some Stats
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 About Me
+
+💻 Desenvolvedor **Back-end** apaixonado por tecnologia  
 🔧 Experiência com **APIs RESTful**, autenticação e banco de dados  
-🌐 Conhecimentos em **HTML, CSS, JavaScript, React e TypeScript**  
-🗄️ Foco em integração com **MySQL**  
-🎯 Buscando criar projetos reais, escaláveis e bem estruturados  
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### 🔹 Back-end
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Flask" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  <img align="center" alt="FastAPI" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-  <img align="center" alt="Django" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-</div>
-
----
-
-### 🔹 Front-end
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TypeScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
-
----
-
-### 🔹 Banco de Dados
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="MySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
-
----
-
-### 🔹 Versionamento
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="GitHub" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Victor Ruan GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Atualmente focado em
-
-- 🔥 Desenvolvimento de APIs com Flask e FastAPI  
-- 🔐 Autenticação com JWT e Login Manager  
-- 🗄️ Integração com MySQL  
-- ⚛️ React com TypeScript  
-- 📦 Arquitetura de projetos Back-end  
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Ruan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-ruan-76b39a270/)
-
-[![Email](https://img.shields.io/badge/Email-victor.ruan.reis%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:victor.ruan.reis@gmail.com)
+📚 Estudando constantemente para evoluir como desenvolvedor  
+🎯 Foco em projetos reais, escaláveis e bem estruturados  
 
 </div>
 
@@ -94,6 +58,28 @@
 
 <div align="center">
 
-⭐ Se gostou de algum projeto, não esquece de deixar uma estrela!
+## 🔥 Atualmente focado em
+
+🐍 APIs com **Flask** e **FastAPI**  
+🔐 Autenticação com **JWT**  
+🗄️ Integração com **MySQL**  
+⚛️ Interfaces modernas com **React + TypeScript**  
+📦 Arquitetura de sistemas Back-end
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Se gostou de algum projeto, deixe uma estrela!
 
 </div>
