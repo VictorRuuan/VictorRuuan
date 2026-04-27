@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=VictorRuuan&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
